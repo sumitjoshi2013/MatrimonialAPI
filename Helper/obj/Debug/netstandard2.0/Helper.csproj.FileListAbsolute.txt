@@ -1,0 +1,9 @@
+E:\Project\Matromonial\Matromonial\Helper\bin\Debug\netstandard2.0\Helper.deps.json
+E:\Project\Matromonial\Matromonial\Helper\bin\Debug\netstandard2.0\Helper.dll
+E:\Project\Matromonial\Matromonial\Helper\bin\Debug\netstandard2.0\Helper.pdb
+E:\Project\Matromonial\Matromonial\Helper\obj\Debug\netstandard2.0\Helper.csproj.CoreCompileInputs.cache
+E:\Project\Matromonial\Matromonial\Helper\obj\Debug\netstandard2.0\Helper.AssemblyInfoInputs.cache
+E:\Project\Matromonial\Matromonial\Helper\obj\Debug\netstandard2.0\Helper.AssemblyInfo.cs
+E:\Project\Matromonial\Matromonial\Helper\obj\Debug\netstandard2.0\Helper.dll
+E:\Project\Matromonial\Matromonial\Helper\obj\Debug\netstandard2.0\Helper.pdb
+E:\Project\Matromonial\Matromonial\Helper\obj\Debug\netstandard2.0\Helper.csprojResolveAssemblyReference.cache
