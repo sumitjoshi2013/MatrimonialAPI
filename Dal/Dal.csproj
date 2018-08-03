@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="1.50.5" />
+    <PackageReference Include="Dapper.Contrib" Version="1.50.5" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Vse.Web.Serialization.ControlledSerializationJsonConverter" Version="1.0.4" />
+    <PackageReference Include="WebApiContrib.Formatting.JavaScriptSerializer" Version="0.9.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Helper\Helper.csproj" />
+    <ProjectReference Include="..\Models\Models.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Web.Extensions">
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Web.Extensions.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
