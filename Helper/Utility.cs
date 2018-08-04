@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Mail;
 using System.Text;
 using System.Threading.Tasks;
-
+ 
 /*
  * 
     Yahoo!	smtp.mail.yahoo.com	587	Yes
