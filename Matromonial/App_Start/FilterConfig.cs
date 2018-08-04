@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace Matromonial
+namespace Matrimonial
 {
     public class FilterConfig
     {

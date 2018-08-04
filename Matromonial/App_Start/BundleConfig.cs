@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace Matromonial
+namespace Matrimonial
 {
     public class BundleConfig
     {

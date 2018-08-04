@@ -5,7 +5,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 
-namespace Matromonial.Controllers
+namespace Matrimonial.Controllers
 {
     public class ValuesController : ApiController
     {
